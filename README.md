@@ -4,7 +4,7 @@ En este repositorio se presenta el desarrollo del Trabajo Práctico de la materi
 
 Se exploraron distintos modelos de clasificación, como K-Nearest Neighbors (KNN) y Árboles de Decisión, y se aplicaron técnicas de validación cruzada para comparar y seleccionar los mejores modelos. También se realizó un análisis exploratorio de los datos para identificar características relevantes.
 
-## Grupo DataSquad
+## Grupo 1, DataSquad
 
 - Espínola, Marcos Nahuel      (espinola.marcos98@gmail.com)
 - Fernández, Ezequiel Juan           (ezequieljuanfernandez2003@gmail.com)
