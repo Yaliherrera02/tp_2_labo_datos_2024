@@ -11,18 +11,5 @@ Se exploraron distintos modelos de clasificación, como K-Nearest Neighbors (KNN
 - Herrera, Alison Yamila (yaliherra02@gmail.com)
 
 ## Código y Visualizaciones
-En este repositorio se encuentran los códigos implementados para cada paso del enunciado, así como también las visualizaciones y análisis de resultados obtenidos durante el desarrollo del trabajo.
 
 Para más detalles sobre el análisis y los resultados, consultar el código y las visualizaciones en este repositorio.
-
-### Descomprimir los datos de entrenamiento(desarrollo)
-
-```
-gunzip -c data/mnist_desarrollo.csv.gz > data/mnist_desarrollo.csv
-```
-
-Luego los datos de test
-```
-gunzip -c data/mnist_test.csv.gz > data/mnist_test.csv
-gunzip -c data/mnist_test_binario.csv.gz > data/mnist_test_binario.csv
-```
